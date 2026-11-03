@@ -1,0 +1,5 @@
+groupe,pieces,proba_moy,nb_stations_moy,nb_mesures_moy,duree_moy,visite_S32_moy,diff_id_suiv_moy
+Conforme bien classé (VN),176258,0.023,12.149,182.074,10.723,0.02,-602.464
+Défaut détecté (VP),116,0.884,9.905,184.328,22.125,0.75,14126.681
+Défaut manqué (FN),897,0.096,11.915,181.555,12.393,0.076,-12367.874
+Fausse alerte (FP),47,0.824,11.404,174.128,11.799,0.915,-177448.851

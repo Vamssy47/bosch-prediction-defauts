@@ -1,0 +1,4 @@
+modele,seuil,exactitude_%,precision,rappel,f1,auc_pr,mcc,temps_s,TP,FP,FN,TN
+Aucun traitement,0.67,99.44,0.611,0.078,0.138,0.115,0.217,53,80,51,947,176373
+Pondération,0.65,97.39,0.077,0.319,0.124,0.079,0.147,58,328,3930,699,172494
+Sous-échantillonnage,0.89,99.46,0.716,0.108,0.188,0.174,0.277,61,111,44,916,176380
